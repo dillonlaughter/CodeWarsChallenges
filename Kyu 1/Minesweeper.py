@@ -1,4 +1,7 @@
-#1 Kyu Challenge
+###########################################################################################################
+# Link to original challenge                                                                              #
+# https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa                                                  #
+###########################################################################################################
 
 '''Description:
 Have you ever played Minesweeper? It's a WINDOWS own game, It mainly tests the player's ability to think logically.
