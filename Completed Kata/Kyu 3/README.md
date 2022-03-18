@@ -41,3 +41,9 @@
 [Original Challenge](https://www.codewars.com/kata/53e57dada0cb0400ba000688)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Alphabetic%20Anagrams.py)
+
+## Screen Locking Patterns
+
+[Original Challenge](https://www.codewars.com/kata/585894545a8a07255e0002f1/)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Screen%20Locking%20Patterns.py)
