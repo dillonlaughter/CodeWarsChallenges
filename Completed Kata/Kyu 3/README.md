@@ -35,3 +35,9 @@
 [Original Challenge](https://www.codewars.com/kata/55171d87236c880cea0004c6)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Hard%20Sudoku%20Solver.py)
+
+## Alphabetic Anagrams
+
+[Original Challenge](https://www.codewars.com/kata/53e57dada0cb0400ba000688)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Alphabetic%20Anagrams.py)
