@@ -35,3 +35,9 @@
 [Original Challenge](https://www.codewars.com/kata/5a331ea7ee1aae8f24000175)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Insane%20Coloured%20Triangles.py)
+
+## Blaine is a pain
+
+[Original Challenge](https://www.codewars.com/kata/59b47ff18bcb77a4d1000076)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Blaine%20is%20a%20Pain.py)
