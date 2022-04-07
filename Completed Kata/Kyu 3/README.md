@@ -47,3 +47,9 @@
 [Original Challenge](https://www.codewars.com/kata/585894545a8a07255e0002f1/)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Screen%20Locking%20Patterns.py)
+
+## The Lift
+
+[Original Challenge](https://www.codewars.com/kata/58905bfa1decb981da00009e/)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/The%20Lift.py)
