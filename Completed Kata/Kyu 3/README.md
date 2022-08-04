@@ -53,3 +53,9 @@
 [Original Challenge](https://www.codewars.com/kata/58905bfa1decb981da00009e/)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/The%20Lift.py)
+
+## Rail Fence Cipher: Encoding and Decoding
+
+[Original Challenge](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Rail%20Fence%20Cipher:%20Encoding%20and%20Decoding.py)
