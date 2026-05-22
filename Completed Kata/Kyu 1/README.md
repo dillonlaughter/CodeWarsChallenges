@@ -23,3 +23,9 @@
 [Original Challenge](https://www.codewars.com/kata/5a529cced8e145207e000010)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%201/Full%20Metal%20Chemist%20%232%3A%20parse%20me....py)
+
+## Simple Interactive Interpreter
+
+[Original Challenge](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%201/Simple%20Interactive%20Interpreter.py)
