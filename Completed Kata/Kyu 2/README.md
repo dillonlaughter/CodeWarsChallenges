@@ -41,3 +41,9 @@
 [Original Challenge](https://www.codewars.com/kata/59b47ff18bcb77a4d1000076)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Blaine%20is%20a%20Pain.py)
+
+## Full Metal Chemist #1: build me...
+
+[Original Challenge](https://www.codewars.com/kata/5a27ca7ab6cfd70f9300007a)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Full%20Metal%20Chemist%20%231:%20build%20me....py)
