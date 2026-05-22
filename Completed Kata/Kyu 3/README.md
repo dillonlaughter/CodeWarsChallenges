@@ -59,3 +59,9 @@
 [Original Challenge](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Rail%20Fence%20Cipher:%20Encoding%20and%20Decoding.py)
+
+## Switch the Bulb--Play game Series #10
+
+[Original Challenge](https://www.codewars.com/kata/5a96064cfd57777828000187)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%203/Switch%20the%20Bulb--Play%20game%20Series%20%2310.py)
