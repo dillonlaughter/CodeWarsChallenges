@@ -47,3 +47,9 @@
 [Original Challenge](https://www.codewars.com/kata/5a27ca7ab6cfd70f9300007a)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Full%20Metal%20Chemist%20%231:%20build%20me....py)
+
+## Simpler Interactive Interpreter
+
+[Original Challenge](https://www.codewars.com/kata/53005a7b26d12be55c000243)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Simpler%20Interactive%20Interpreter.py)
