@@ -17,3 +17,9 @@
 [Original Challenge](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%201/Sliding%20Puzzle%20Solver.py)
+
+## Full Metal Chemist #2: parse me...
+
+[Original Challenge](https://www.codewars.com/kata/5a529cced8e145207e000010)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%201/Full%20Metal%20Chemist%20%232%3A%20parse%20me....py)
