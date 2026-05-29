@@ -58,4 +58,4 @@
 
 [Original Challenge](https://www.codewars.com/kata/57a2e0dbe298a7fa4800003c)
 
-[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Mr.%20Right%20%26%20Mr.%20Wrong%20%232%3A%20Who%20is%20Mr.Wrong%3F)
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Mr.%20Right%20&%20Mr.%20Wrong%20%232:%20Who%20is%20Mr.Wrong%3F.py)
