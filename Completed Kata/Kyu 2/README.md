@@ -53,3 +53,9 @@
 [Original Challenge](https://www.codewars.com/kata/53005a7b26d12be55c000243)
 
 [My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Simpler%20Interactive%20Interpreter.py)
+
+## Mr. Right & Mr. Wrong #2: Who is Mr.Wrong?
+
+[Original Challenge](https://www.codewars.com/kata/57a2e0dbe298a7fa4800003c)
+
+[My Solution](https://github.com/dillonlaughter/CodeWarsChallenges/blob/main/Completed%20Kata/Kyu%202/Mr.%20Right%20%26%20Mr.%20Wrong%20%232%3A%20Who%20is%20Mr.Wrong%3F)
